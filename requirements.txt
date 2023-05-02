@@ -1,6 +1,4 @@
 Kivy==2.0.0
 Cython==0.29.21
-sdl2==2.0.10
-sdl2-image==2.0.5
-sdl2-mixer==2.0.4
-sdl2-ttf==2.0.15
+black
+buildozer
