@@ -1,4 +1,6 @@
 from kivy.app import App
+
+
 from kivy.uix.scatter import Scatter  # Bigger and smaller and rotate
 from kivy.uix.label import Label
 from kivy.uix.floatlayout import FloatLayout  # Resolution

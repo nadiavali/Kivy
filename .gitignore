@@ -1,0 +1,8 @@
+venv
+/venv
+/venv/bin
+/venv/include
+/venv/lib
+/venv/lib64
+/venv/share
+/venv/pyvenv
